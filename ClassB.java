@@ -19,12 +19,12 @@ public class ClassB {
         
         ClassA obA = new ClassA();
         
- //       obA.b = 12;
-        obA.c = 5;
-        obA.d = 23;
-  //     ClassA.b = 4;
-   //     ClassA.c = 33;
-        ClassA.d = 99;
+        obA.b = 12;   //incorrecto
+        obA.c = 5;    //correcto
+        obA.d = 23;   //correcto
+        ClassA.b = 4;  //incorrecto
+        ClassA.c = 33;  //incorrecto
+        ClassA.d = 99;  //correcto
     }
 
 }
