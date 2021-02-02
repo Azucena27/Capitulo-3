@@ -20,12 +20,12 @@ public class Programa1 {
     }
 
     public static void main(String[] args) {
-        calculate(v, w);
-        calculate(v, x);
-//        calculate(x, y);
-        calculate(18, x);
-      //  calculate(1.1, 2.2);
-        calculate(5, 7);
+        calculate(v, w);    //correcto
+        calculate(v, x);    //correcto
+        calculate(x, y);    //incorrecto
+        calculate(18, x);   //correcto
+        calculate(1.1, 2.2); //incorrecto
+        calculate(5, 7);     //incorrecto
 
     }
 }
