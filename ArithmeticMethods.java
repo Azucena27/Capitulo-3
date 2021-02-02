@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author Azucena
  */
 
-///////-----inciso A-----///////////
+///////-----inciso A-----//////////
 public class ArithmeticMethods {
 
     static int x = 3;
