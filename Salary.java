@@ -34,5 +34,4 @@ public class Salary {
         
         pagoSalario(pago, regular, extra);
     }
-    
 }
