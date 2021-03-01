@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author Azucena
  */
 public class PaintCalculator {
-
+    
     static double ancho;
     static double longitud;
     static double alto;
