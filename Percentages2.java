@@ -28,7 +28,6 @@ public class Percentages2 {
 
     System.out.println("Ingresa el segundo valor ");
     int y = scanner.nextInt();
-    
     System.out.println("El resultado es:");
     
     computePercent(x,y);
