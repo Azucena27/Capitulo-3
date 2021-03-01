@@ -17,7 +17,6 @@ public class ShowStudent2 {
 
     public static void main(String[] args) {
         Student student = new Student();
-
         System.out.println("El id del estudiantes es: " + student.getId());
         System.out.println("Las horas de credito del estudiante es: " + student.getHoras());
         System.out.println("Los puntos obtenidos por el estudiante es: " + student.getPuntos());
