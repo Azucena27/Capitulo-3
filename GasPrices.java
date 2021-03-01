@@ -33,5 +33,4 @@ public class GasPrices {
         RangoPrecios(pricePerBarrel);
         
     }
-
 }
