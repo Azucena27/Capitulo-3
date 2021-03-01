@@ -13,10 +13,10 @@ package com.mycompany.ejercicio3;
 /////---inciso A---/////
 public class Student {
 
-    public int id;
-    public int horas;
-    public int puntos;
-    public int promedio;
+    private int id;
+    private int horas;
+    private int puntos;
+    private int promedio;
 
     Student() {
         id = 9999;
