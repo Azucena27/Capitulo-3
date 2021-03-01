@@ -29,8 +29,7 @@ public class TestSandwich {
         sandwich.setPrecio(scanner.nextDouble());
         System.out.println("El ingradiente principal del sandwich es: "+sandwich.getIngrediente());
         System.out.println("El tipo de pan del sandwich es: "+sandwich.getPan());
-        System.out.println("El precio del sandwich es: $"+sandwich.getPrecio());
-        
+        System.out.println("El precio del sandwich es: $"+sandwich.getPrecio());   
     }
 
 }
