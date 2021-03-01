@@ -50,4 +50,5 @@ public class TestPainting {
         System.out.println("El medio de la pintura es: $" + pintura.getMedio());
         System.out.println("El precio de la pintura es: $" + pintura.getPrecio());
     }
+    
 }
