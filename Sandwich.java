@@ -13,9 +13,9 @@ package com.mycompany.ejercicio3;
 ////////---inciso A---////////
 public class Sandwich {
     
-    public String ingrediente;
-    public String pan;
-    public double precio;
+    private String ingrediente;
+    private String pan;
+    private double precio;
 
     /**
      * @return the ingrediente
