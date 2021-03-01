@@ -14,8 +14,7 @@ public class ClassA {
     private Integer b;
     public Integer c;
     public static Integer d ;
-    
-    
+     
 }
 
 
