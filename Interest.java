@@ -29,5 +29,4 @@ public class Interest {
         resultado = dineroInvertido(inicial);
         System.out.println("La cantidad de dinero invertido al 5% de interes durante un año es: $"+resultado);
     }
-    
 }
