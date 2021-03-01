@@ -11,9 +11,9 @@ package com.mycompany.ejercicio3;
  */
 public class BankAccount {
 
-    public int numCuenta;
-    public String nombre;
-    public double saldo;
+    private int numCuenta;
+    private String nombre;
+    private double saldo;
 
     BankAccount() {
         numCuenta = 0;
