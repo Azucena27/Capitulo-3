@@ -11,10 +11,10 @@ package com.mycompany.ejercicio3;
  */
 public class Painting {
 
-    public String titulo;
-    public String artista;
-    public String medio;
-    public double precio;
+    private String titulo;
+    private String artista;
+    private String medio;
+    private double precio;
     private double comision;
 
     Painting() {
