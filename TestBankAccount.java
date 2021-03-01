@@ -15,7 +15,6 @@ import java.util.Scanner;
 public class TestBankAccount {
 
     public static void main(String[] args) {
-
         BankAccount cuenta1 = new BankAccount();
         BankAccount cuenta2 = new BankAccount();
         BankAccount cuenta3 = new BankAccount();
@@ -27,7 +26,6 @@ public class TestBankAccount {
         showValues(cuenta2);
         showValues(cuenta3);
         showValues(cuenta4);
-
     }
 
     public static BankAccount getData() {
