@@ -24,8 +24,7 @@ public class Insurance {
         
         System.out.println("La Prima anual de la poliza es: $"+total);
     }
-    
-    
+      
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
