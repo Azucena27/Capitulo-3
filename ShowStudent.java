@@ -32,7 +32,6 @@ public class ShowStudent {
         System.out.println("Las horas de credito del estudiante es: " + student.getHoras());
         System.out.println("Los puntos obtenidos por el estudiante es: " + student.getPuntos());
         System.out.println("El promedio del estudiante es: " + student.getPromedio());
-
     }
 
 }
