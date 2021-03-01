@@ -38,6 +38,5 @@ public class ArithmeticMethods {
         displayNumberPlus10(x, y);
         displayNumberPlus100(x, y);
         displayNumberPlus1000(x, y);
-
     }
 }
