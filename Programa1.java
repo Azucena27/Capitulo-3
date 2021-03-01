@@ -26,6 +26,5 @@ public class Programa1 {
         calculate(18, x);   //correcto
         calculate(1.1, 2.2); //incorrecto
         calculate(5, 7);     //incorrecto
-
     }
 }
