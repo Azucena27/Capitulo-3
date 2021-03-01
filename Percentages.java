@@ -11,7 +11,6 @@ import java.util.Scanner;
  *
  * @author Azucena
  */
-
    /////---inciso A---//////      
 public class Percentages {
     
