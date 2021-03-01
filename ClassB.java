@@ -13,8 +13,6 @@ import com.mycompany.ejercicios.ClassA;
  */
 public class ClassB {
 
-    
-
     public static void main(String[] args) {
         
         ClassA obA = new ClassA();
